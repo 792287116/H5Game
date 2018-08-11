@@ -1,0 +1,9 @@
+{
+  "__type__": "cc.ParticleAsset",
+  "_name": "atom",
+  "_objFlags": 0,
+  "_native": ".plist",
+  "texture": {
+    "__uuid__": "e753cf42-0a5d-429f-ba5e-6c919167f82b"
+  }
+}
